@@ -12,12 +12,12 @@ examining the different phonological properties of a language to map its salient
 5. VowelPlot file takes select columns of the output of extract formants as input, and outputs individual and comparative vowel spaces and scatterplots of all the vowel entries.
    <table>
   <tr>
-    <td><b>Original Stimulus (Edges)</b></td>
-    <td><b>Grad-CAM Result </b></td>
+    <td><b>Vowel space of Tamil vowels (Edges)</b></td>
+    <td><b> Scatter plot of vowels in Tamil</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/afe968fc-d88c-4132-aea8-de6aa0ddaaa8" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/8f530e4b-f5dc-4530-aa9c-11401ade36f4" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/934bcd86-37c1-497e-a676-8e0b810c8de0"  width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/b1fde006-6f34-49ec-82f8-046e05fe2418" width="300"></td>
   </tr>
 </table>
 
