@@ -10,6 +10,8 @@ examining the different phonological properties of a language to map its salient
 3. vot can be used to calculate the voice onset time of the consonants,preferabe in another data folder for efficient working of the code. The positiveor negative value of VOT must be inferred from the waveform analysis of the sound files.
 4. diphthongs code can be used for getting the f0 value at 100 time points of the vowel to plot diphthong trajectory paths.
 5. VowelPlot file takes select columns of the output of extract formants as input, and outputs individual and comparative vowel spaces and scatterplots of all the vowel entries.
+
+##Example visualizations
    <table>
   <tr>
     <td><b>Vowel space of Tamil vowels (Edges)</b></td>
