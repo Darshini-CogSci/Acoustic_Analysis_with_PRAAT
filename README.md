@@ -1,5 +1,5 @@
 # Acoustic_Analysis
-examining the different phonological properties of a language to map its salient features
+examining the different phonological properties of a language to map its salient features. The observations and interpretations for the Tamil data used with this code can be seen in [Overleaf](https://www.overleaf.com/read/gdkczvyszgwz#5f83a9)
 
 ## How to use:
 -Get WAV audio files and their respective TextGrid annotations of the same name in a folder in the directory.
