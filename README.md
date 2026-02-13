@@ -14,7 +14,7 @@ examining the different phonological properties of a language to map its salient
 ## Example visualizations
    <table>
   <tr>
-    <td><b>Vowel space of Tamil vowels (Edges)</b></td>
+    <td><b>Vowel space of Tamil vowels</b></td>
     <td><b> Scatter plot of vowels in Tamil</b></td>
   </tr>
   <tr>
